@@ -31,12 +31,12 @@
 
 <table>
   <tr>
-    <td width="33%"><img src="assets/weiruliu-shadow-puppet.jpg" width="100%" alt="Shadow-puppet scene from Journey to the West: the Monkey King stands inside the shadow of a giant palm, with the Buddha seated on the left"></td>
+    <td width="33%"><a href="https://nicolehuo123-lgtm.github.io/weiruliu/"><img src="assets/weiruliu-shadow-puppet.jpg" width="100%" alt="Shadow-puppet scene from Journey to the West: the Monkey King stands inside the shadow of a giant palm, with the Buddha seated on the left"></a></td>
     <td width="33%"><img src="assets/sanxingdui-bronze.jpg" width="100%" alt="Two felt dolls in an excavation pit, playing in front of a giant bronze mask with protruding eyes and a bronze tree with birds"></td>
     <td width="33%"><img src="assets/lacquerware.jpg" width="100%" alt="Two felt dolls in a lacquer workshop, one painting red cloud patterns on a black lacquer box, the other polishing a lacquer plate"></td>
   </tr>
   <tr>
-    <td>🎭 <b>Wei Ru Liu（未入流）</b> — a playable shadow-puppet <i>Journey to the West</i>. Every line is quoted from the original novel; only the order of the scenes is new. Five acts, nineteen scenes, playable start to finish</td>
+    <td>🎭 <b><a href="https://nicolehuo123-lgtm.github.io/weiruliu/">Wei Ru Liu（未入流）</a></b> — a playable shadow-puppet <i>Journey to the West</i>. Every line is quoted from the original novel; only the order of the scenes is new. Five acts, nineteen scenes, playable start to finish<br><a href="https://nicolehuo123-lgtm.github.io/weiruliu/">▶ Play in your browser</a> · <a href="https://nicolehuo123-lgtm.github.io/weiruliu/?lang=ja">日本語字幕で遊ぶ</a></td>
     <td>👁️ <b>Sanxingdui bronzes（三星堆）</b> — the giant masks and bronze trees of ancient Shu, next on my list</td>
     <td>🖌️ <b>Lacquerware（漆器）</b> — red and black, layer by layer, next on my list</td>
   </tr>
